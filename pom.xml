@@ -2,7 +2,7 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>eu.server24-7</groupId>
+	<groupId>de.arrow-systems</groupId>
 	<artifactId>cloudspigot</artifactId>
 	<version>1.8.10-R0.1-SNAPSHOT</version>
 	<name>CloudSpigot</name>
@@ -20,8 +20,8 @@
 
 	<repositories>
 		<repository>
-			<id>server24-7</id>
-			<url>https://mvn.server24-7.eu/</url>
+			<id>arrow-systems</id>
+			<url>https://mvn.arrow-systems.de/</url>
 		</repository>
 	</repositories>
 
@@ -52,7 +52,7 @@
 			<version>3.0.3</version>
 		</dependency>
 		<dependency>
-			<groupId>eu.server24-7</groupId>
+			<groupId>de.arrow-systems</groupId>
 			<artifactId>minecraft-server</artifactId>
 			<version>1.8.9-SNAPSHOT</version>
 			<type>jar</type>
