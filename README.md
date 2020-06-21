@@ -1,7 +1,7 @@
 CloudSpigot [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9510a76cbf1f4fa3a192ee3e56050082)](https://www.codacy.com/app/Server24-7/CloudSpigot?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Server24-7/CloudSpigot&amp;utm_campaign=Badge_Grade)  
 ===========
 
-High performance PaperSpigot fork used by Minecraft Server Cloudz.ml.
+High performance PaperSpigot fork used by Minecraft Server Arrow-Systems.de.
 
 
 **Support and Project Discussion:**
@@ -22,14 +22,14 @@ How To (Plugin Developers)
  * Maven Repo (for cloudspigot):
 ```xml
 <repository>
-    <id>server24-7.eu</id>
-    <url>https://mvn.server24-7.eu/</url>
+    <id>arrow-systems.de</id>
+    <url>https://mvn.arrow-systems.de/</url>
 </repository>
 ```
  * Artifact Information:
 ```xml
 <dependency>
-    <groupId>eu.server24-7</groupId>
+    <groupId>de.arrow-systems</groupId>
     <artifactId>cloudspigot</artifactId>
     <version>1.8.10-R0.1-SNAPSHOT</version>
     <scope>provided</scope>
