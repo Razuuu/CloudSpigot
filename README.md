@@ -29,7 +29,7 @@ How To (Plugin Developers)
  * Artifact Information:
 ```xml
 <dependency>
-    <groupId>de.arrow-systems</groupId>
+    <groupId>eu.server24-7</groupId>
     <artifactId>cloudspigot</artifactId>
     <version>1.8.10-R0.1-SNAPSHOT</version>
     <scope>provided</scope>
